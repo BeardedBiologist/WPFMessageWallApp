@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFMessageWall", "WPFMessageWall\WPFMessageWall.csproj", "{B2D73561-1A87-4E0C-994B-EFA674B872E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFFrameworkDemUI", "WPFFrameworkDemUI\WPFFrameworkDemUI.csproj", "{83871670-6E8D-4C33-A543-669618929259}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFFrameworkDemoUI", "WPFFrameworkDemUI\WPFFrameworkDemoUI.csproj", "{83871670-6E8D-4C33-A543-669618929259}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
